@@ -1,0 +1,22 @@
+.section{
+    max-width: 400px;
+    margin: 100px auto;
+    height: 250px;
+    background-color: #fa03e1;
+    padding: 100px;
+}
+
+p{
+    max-width: 250px;
+    margin:70px auto;
+    background-color: aquamarine;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+.btn{
+    background-color: rgb(125, 17, 226);
+    color:white;
+    margin-left: 150px;
+    padding: 10px 20px;
+}
